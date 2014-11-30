@@ -1,2 +1,2 @@
 <?php 
-echo "PayPal";
+echo "PayPal API";
